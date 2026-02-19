@@ -1,8 +1,8 @@
 # MapReduce-Concept-in-Python
 Implementation of matrix multiplication using both traditional and MapReduce paradigms to demonstrate distributed computing concepts.
-## About This Project
+## About This Work
 
-This project explores how matrix multiplication can be implemented using both the traditional mathematical approach and the MapReduce paradigm.
+This work explores how matrix multiplication can be implemented using both the traditional mathematical approach and the MapReduce paradigm.
 
 The goal was to better understand how large-scale computations can be broken down into smaller tasks and processed efficiently — a core idea behind distributed systems and big data frameworks.
 
@@ -10,7 +10,7 @@ Instead of only solving the problem mathematically, I also focused on modeling h
 
 ---
 
-## What This Project Covers
+## What This Work Covers
 
 - Basic matrix multiplication logic
 - Implementation in Python
@@ -23,4 +23,4 @@ Instead of only solving the problem mathematically, I also focused on modeling h
 ## Project Files
 
 - Project report (detailed explanation of each step)
-- Screenshots of Python execution and results
+
